@@ -1,0 +1,8 @@
+.animationOwn {
+  position: fixed;
+  border-radius: 50%;
+  opacity: 0.9;
+  transform: scale(0.8) rotate(0);
+  transition: all 0.7s cubic-bezier(0.58,-0.80, 0.99, 1.07);
+  z-index: 5;
+}
